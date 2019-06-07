@@ -32,6 +32,11 @@
       <artifactId>vavr-match</artifactId>
       <version>${vavr.version}</version>
     </dependency>
+    <dependency>
+      <groupId>io.vavr</groupId>
+      <artifactId>vavr-match-processor</artifactId>
+      <version>${vavr.version}</version>
+    </dependency>
   </dependencies>
 
   <build>
